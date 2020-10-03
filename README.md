@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="imagens/instagram-story-animation.gif" alt="Linkedin Loading" width="500px" />
+    <img src="imagens/icon-repository.png" alt="Story Animation" width="300px" />
 </h1>
 
 ## :clipboard: About the project
