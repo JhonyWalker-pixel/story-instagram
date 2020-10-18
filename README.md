@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="imagens/icon-repository.png" alt="Story Animation" width="300px" />
+    <img src="imagens/icon-repo-instagram.png" alt="Story Animation" width="300px" />
 </h1>
 
 ## :clipboard: About the project
